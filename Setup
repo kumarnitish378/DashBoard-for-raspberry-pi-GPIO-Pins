@@ -1,0 +1,7 @@
+step 1:
+for raspberry pi
+
+$sudo git clone link
+$cd DashBoard-for-raspberry-pi-GPIO-Pins
+$ls
+$python3 DashBoard-for-raspberry-pi-GPIO-Pins.py
